@@ -24,13 +24,13 @@
 
 | 目标系统/设备 | 适用平台 | 安装包名称 | 🌐 官方下载 (GitHub) | ⚡ 国内极速下载 (推荐) |
 | :--- | :--- | :--- | :--- | :--- |
-| 📱 **安卓手机** | Android Mobile | `artifact-android-mobile.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-mobile.apk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-mobile.apk) |
-| 📺 **安卓电视/盒子** | Android TV | `artifact-android-tv.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-tv.apk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-tv.apk) |
-| 🍏 **苹果 iPhone** | iOS (arm64) | `artifact-ios-arm64.ipa` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-ios-arm64.ipa) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-ios-arm64.ipa) |
-| 🪟 **Windows 电脑** | Windows amd64 | `artifact-windows-amd64.exe` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-windows-amd64.exe) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-windows-amd64.exe) |
-| 💻 **Mac 电脑** | macOS Universal | `artifact-macos-universal.dmg` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-macos-universal.dmg) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-macos-universal.dmg) |
-| 🐧 **Linux 电脑/服务器** | Linux amd64 | `artifact-linux-amd64.tar.gz` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-linux-amd64.tar.gz) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-linux-amd64.tar.gz) |
-| 🌐 **路由器** | OpenWrt | `artifact-openwrt.ipk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-openwrt.ipk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-openwrt.ipk) |
+| 📱 **安卓手机** | Android Mobile | `artifact-android-mobile.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.apk) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.apk) |
+| 📺 **安卓电视/盒子** | Android TV | `artifact-android-tv.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelayTv.apk) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelayTv.apk) |
+| 🍏 **苹果 iPhone** | iOS (arm64) | `artifact-ios-arm64.ipa` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.ipa) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.ipa) |
+| 🪟 **Windows 电脑** | Windows amd64 | `artifact-windows-amd64.exe` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.exe) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.exe) |
+| 💻 **Mac 电脑** | macOS Universal | `artifact-macos-universal.dmg` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.dmg) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.dmg) |
+| 🐧 **Linux 电脑/服务器** | Linux amd64 | `artifact-linux-amd64.tar.gz` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.deb) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.deb) |
+| 🌐 **路由器** | OpenWrt | `artifact-openwrt.ipk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.ipk) | [极速下载](https://github.com/oiiioooiii/StarRelay/releases/download/3.6.10/StarRelay.ipk) |
 
 *历史所有版本及源代码，可前往 [📦 GitHub Releases 历史归档](https://github.com/oiiioooiii/StarRelay/releases) 页面查看。*
 
