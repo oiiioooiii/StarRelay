@@ -1,57 +1,63 @@
-# 🚀 [你的软件名称]
+# 🚀 [StarRelay_星链加速器]
 
-[![GitHub release](https://img.shields.io/github/v/release/你的GitHub用户名/你的仓库名)](https://github.com/你的GitHub用户名/你的仓库名/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Android-blue)](https://github.com/你的GitHub用户名/你的仓库名/releases)
+[![GitHub release](https://img.shields.io/github/v/release/oiiioooiii/StarRelay)](https://github.com/oiiioooiii/StarRelay/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Android%20%7C%20iOS%20%7C%20Linux%20%7C%20OpenWrt-blue)](https://github.com/oiiioooiii/StarRelay/releases)
 
-这里用一句话简要介绍你的软件是做什么的。（例如：一款极简、好用的跨平台全自动打卡/文件管理/效率工具。）
-
----
-
-## 📥 软件下载
-
-为了照顾不同地区用户的下载体验，我们提供了以下下载渠道：
-
-### ⚡ 推荐下载渠道（国内加速）
-* **[🚀 极速下载通道 1 (蓝奏云 / 夸克网盘等)](这里放你的不限速网盘链接)** —— 提取码：`xxxx`（国内用户推荐，无需翻墙，速度极快）
-* **[✨ 极速下载通道 2 (GitHub 国内镜像)](https://mirror.ghproxy.com/这里放你GitHubReleases里安装包的真实下载链接)** —— 点击直接通过浏览器下载。
-
-### 🌐 官方发布渠道（海外/技术用户）
-* **[📦 GitHub Releases 官方下载](https://github.com/你的GitHub用户名/你的仓库名/releases)** —— 包含历史所有版本及源代码。
+提供多地区高速节点接入与订阅管理服务。
 
 ---
 
 ## ✨ 核心特性
 
-* 🌟 **特性一**：用简短的话描述软件的第一个亮点。
-* ⚡ **特性二**：高效率、低占用、界面精美。
-* 🔒 **特性三**：安全隐私，绝不上传用户个人数据。
-* 🛠️ **特性四**：支持 Windows / macOS / Linux 等多平台。
+* 🌟 **全球节点**：优质节点遍布全球，低延迟高速率，畅享丝滑网络体验。
+* ⚡ **多重保护**：智能多重加密保护，隐私安全无忧，支持智能故障转移。
+* 🔒 **流媒体优化**：完美支持 Netflix、Disney+、YouTube、TikTok 等主流平台，畅享全球影音。
+* 🛠️ **全平台覆盖**：全面支持手机、电脑、电视以及路由器设备。
 
 ---
 
-## 🖥️ 软件截图
+## 📥 软件下载与全平台支持
 
-> *(把你的软件截图拖拽到这里即可显示，一张好看的截图能大大增加信任度)*
-> ![软件主界面演示](这里放你的图片链接或者直接把图片拖进GitHub编辑器)
+请根据您的设备系统选择对应的安装包下载。
+
+> **💡 提示**：国内用户推荐点击下表中的 **「⚡ 国内极速下载」**，通过镜像加速通道直接下载，无需翻墙。
+
+| 目标系统/设备 | 适用平台 | 安装包名称 | 🌐 官方下载 (GitHub) | ⚡ 国内极速下载 (推荐) |
+| :--- | :--- | :--- | :--- | :--- |
+| 📱 **安卓手机** | Android Mobile | `artifact-android-mobile.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-mobile.apk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-mobile.apk) |
+| 📺 **安卓电视/盒子** | Android TV | `artifact-android-tv.apk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-tv.apk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-android-tv.apk) |
+| 🍏 **苹果 iPhone** | iOS (arm64) | `artifact-ios-arm64.ipa` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-ios-arm64.ipa) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-ios-arm64.ipa) |
+| 🪟 **Windows 电脑** | Windows amd64 | `artifact-windows-amd64.exe` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-windows-amd64.exe) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-windows-amd64.exe) |
+| 💻 **Mac 电脑** | macOS Universal | `artifact-macos-universal.dmg` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-macos-universal.dmg) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-macos-universal.dmg) |
+| 🐧 **Linux 电脑/服务器** | Linux amd64 | `artifact-linux-amd64.tar.gz` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-linux-amd64.tar.gz) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-linux-amd64.tar.gz) |
+| 🌐 **路由器** | OpenWrt | `artifact-openwrt.ipk` | [点击下载](https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-openwrt.ipk) | [极速下载](https://mirror.ghproxy.com/https://github.com/oiiioooiii/StarRelay/releases/latest/download/artifact-openwrt.ipk) |
+
+*历史所有版本及源代码，可前往 [📦 GitHub Releases 历史归档](https://github.com/oiiioooiii/StarRelay/releases) 页面查看。*
 
 ---
 
-## 🛠️ 安装与运行说明
+## 🔒 文件校验 (SHA-256)
 
-### Windows 用户
-1. 下载 `[软件名]-setup.exe` 安装包。
-2. 双击运行，按照提示安装即可。
-3. *注意：由于未购买微软数字签名，部分杀毒软件可能会误报，请选择“仍要运行”。*
+如果您需要验证下载的安装包是否完整、安全，可以使用以下哈希值进行比对：
 
-### macOS 用户
-1. 下载 `[软件名].dmg` 镜像文件。
-2. 双击打开，将软件图标拖动到 `Applications` (应用程序) 文件夹中。
-3. 首次打开若提示“无法验证开发者”，请前往 `系统设置 -> 隐私与安全性 -> 仍要打开`。
+```text
+# Android Mobile (207 MB)
+26f4c1e67a6a0e25897c91f8dbb75d46d24dd1b7dd0ac2c013307b69387e6311
 
----
+# Android TV (76.8 MB)
+6fcd034444936d61855f96a97357c1dbfff76b37dda3a52ec76c689a67ac8bfe
 
-## 💬 联系与反馈
+# iOS arm64 (44.5 MB)
+ecab51a0c18876bfbc4a88e0130b743ecfee2e160e56a992ef916ca03b9f64c9
 
-如果你在运行过程中遇到任何问题，欢迎通过以下方式反馈：
-* 在本仓库提交 [Issues](https://github.com/你的GitHub用户名/你的仓库名/issues)
-* 联系作者邮箱：`your-email@example.com`
+# Linux amd64 (191 MB)
+f9c80720d1b69b885929e17fb747f65de9b1ff3971b64731f5c7f763eaa5477c
+
+# macOS Universal (75.5 MB)
+96dc72c5fe0226f0b203d21da5b74dd29c9ae570c3064716a71f986523dbcef8
+
+# OpenWrt (40.1 MB)
+128742c5c7614c4794e62301b526782e719b5f48686e8fc281415109f5d3bbec
+
+# Windows amd64
+[请在此补充Windows文件的SHA256校验值]
